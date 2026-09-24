@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "PLORANA",
+    "slug": "plorana",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.plorana.mobile"
+    },
+    "android": {
+      "package": "app.plorana.mobile"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "privacy": "Reflection content is intended to remain local on the device in the MVP."
+    }
+  }
+}
